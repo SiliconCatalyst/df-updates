@@ -2,5 +2,6 @@
   "version": "1.0.0",
   "releaseDate": "2025-04-16",
   "downloadUrl": "https://github.com/SiliconCatalyst/df-updates/releases/download/v1.0.0/DFSetup-win32-v1.0.0.exe",
-  "notes": "Initial release with core functionality"
+  "notes": "Initial release with core functionality",
+  "sha256": "94C0DB69569395DCA1985F68163841D49E8968E63DBBCEA90B28AB89166242F1"
 }
