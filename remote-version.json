@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "releaseDate": "2025-04-17",
-  "downloadUrl": "https://github.com/SiliconCatalyst/df-updates/releases/download/v1.0.0/df-setup-win32-v1.0.0.exe",
+  "downloadUrl": "https://github.com/SiliconCatalyst/df-updates/releases/download/v1.0.0/df-setup-amd64-v1.0.0.exe",
   "notes": "Initial release with core functionality",
-  "sha256": "2904D2C4B6B4B06AC0CA402BAFC49CF0A4E9EDB1DD57AC5D0B3C27ED17AE08C7"
+  "sha256": "D47B8767B5EDED6CEB587703C2749F26F701960C113349C950B3843595F234B6"
 }
